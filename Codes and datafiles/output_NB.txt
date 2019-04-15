@@ -1,0 +1,45 @@
+swarada@swarada-HP:~/AssessmentII/stanfordSentimentTreebank$ python NB.py
+-----------OUTPUT OF CV (USING TF-IDF)--------
+For fold = 1
+WordLevel TF-IDF:  0.684919966302
+For fold = 2
+WordLevel TF-IDF:  0.673967986521
+For fold = 3
+WordLevel TF-IDF:  0.636057287279
+For fold = 4
+WordLevel TF-IDF:  0.627318718381
+For fold = 5
+WordLevel TF-IDF:  0.585160202361
+For fold = 6
+WordLevel TF-IDF:  0.634064080944
+For fold = 7
+WordLevel TF-IDF:  0.634290540541
+For fold = 8
+WordLevel TF-IDF:  0.657094594595
+For fold = 9
+WordLevel TF-IDF:  0.64527027027
+For fold = 10
+WordLevel TF-IDF:  0.625
+-----------OUTPUT OF CV (USING N-GRAM)--------
+For fold = 1
+N-Gram vectors:  0.576242628475
+For fold = 2
+N-Gram vectors:  0.577085088458
+For fold = 3
+N-Gram vectors:  0.550968828981
+For fold = 4
+N-Gram vectors:  0.553119730185
+For fold = 5
+N-Gram vectors:  0.515177065767
+For fold = 6
+N-Gram vectors:  0.52107925801
+For fold = 7
+N-Gram vectors:  0.544763513514
+For fold = 8
+N-Gram vectors:  0.563344594595
+For fold = 9
+N-Gram vectors:  0.526182432432
+For fold = 10
+N-Gram vectors:  0.528716216216
+swarada@swarada-HP:~/AssessmentII/stanfordSentimentTreebank$ 
+

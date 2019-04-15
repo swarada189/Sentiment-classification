@@ -1,0 +1,25 @@
+swarada@swarada-HP:~/AssessmentII/stanfordSentimentTreebank$ python SVM.py
+Type of feature vector : <class 'scipy.sparse.csr.csr_matrix'>
+Size of feature vector : (11855, 17808)
+-----------OUTPUT OF CV (USING BagOfWords)--------
+For fold = 1
+Bag of words accuracy:  0.619208087616
+For fold = 2
+Bag of words accuracy:  0.61752316765
+For fold = 3
+Bag of words accuracy:  0.575400168492
+For fold = 4
+Bag of words accuracy:  0.550590219224
+For fold = 5
+Bag of words accuracy:  0.528667790894
+For fold = 6
+Bag of words accuracy:  0.554806070826
+For fold = 7
+Bag of words accuracy:  0.572635135135
+For fold = 8
+Bag of words accuracy:  0.571790540541
+For fold = 9
+Bag of words accuracy:  0.570101351351
+For fold = 10
+Bag of words accuracy:  0.541385135135
+swarada@swarada-HP:~/AssessmentII/stanfordSentimentTreebank$
